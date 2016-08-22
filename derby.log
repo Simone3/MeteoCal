@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Feb 13 12:27:41 CET 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014b-82b1-bcda-000001ce3418 
+on database directory C:\Users\Simone-Pub\AppData\Local\Temp\gfembed6807405874160682604tmp\lib\databases\embedded_default with class loader sun.misc.Launcher$AppClassLoader@1c7c054 
+Loaded from file:/C:/Users/Simone-Pub/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/4.1/glassfish-embedded-all-4.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=C:\Users\Simone-Pub\Documents\NetBeansProjects\software-engineering-2-graziussi-meteocal\MeteoCal
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
